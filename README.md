@@ -5,6 +5,7 @@
 - I'm still learning overall about computer programming, so I can't programming well
 - I'm just a baby programmer
 - I want to learn many things about programming
+- Thank you for visiting my Github
 - 
 <!---
 Fury1224/Fury1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
